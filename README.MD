@@ -4,14 +4,16 @@ Welcome to the sample GitHub ReadME! Use this template as an outline for your da
 
 
 # Project Background
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+IMDB, established in 1990, is a database that holds all current and past movies, TV shows, and other entertainment-related content.
+
+The company has significant amounts of data on movies, TV shows, rankings, and sales. This project thoroughly analyzes and synthesizes this data in order to uncover trends and critcial insights. 
 
 Insights and recommendations are provided on the following key areas:
 
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
+- **Most common and used genres:**An evaluation of all movie genres to see what genres are used the most. 
+- **Average ranking by genre:** Evaluation of all rankings by genre to find out the average rankings by genre. 
+- **Budget to movie ranking:** An assessment of movies to compare how much money was spent on the movie to the rank of the movie. 
+- **Correlation between star power(# of well-known actors)and movie rankings:**Look at whether films featuring a higher number of prominent actors tend to get better reviews or higher ratings 
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
