@@ -10,10 +10,10 @@ The company has significant amounts of data on movies, TV shows, rankings, and s
 
 Insights and recommendations are provided on the following key areas:
 
-- **Most common and used genres:**An evaluation of all movie genres to see what genres are used the most. 
+- **Most common and used genres:** An evaluation of all movie genres to see what genres are used the most. 
 - **Average ranking by genre:** Evaluation of all rankings by genre to find out the average rankings by genre. 
 - **Budget to movie ranking:** An assessment of movies to compare how much money was spent on the movie to the rank of the movie. 
-- **Correlation between star power(# of well-known actors)and movie rankings:**Look at whether films featuring a higher number of prominent actors tend to get better reviews or higher ratings 
+- **Correlation between star power(# of well-known actors)and movie rankings:** Look at whether films featuring a higher number of prominent actors tend to get better reviews or higher ratings 
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
