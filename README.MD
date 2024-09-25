@@ -46,7 +46,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 
 # Insights Deep Dive
-### **Most common and used genres:** An evaluation of all movie genres to see what genres are used the most:
+### **Most common and used genres:** An evaluation of all movie genres to see what genres are used the most
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -59,7 +59,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 [Visualization specific to category 1]
 
 
-### **Average ranking by genre:** Evaluation of all rankings by genre to find out the average rankings by genre:
+### **Average ranking by genre:** Evaluation of all rankings by genre to find out the average rankings by genre
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -72,7 +72,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 [Visualization specific to category 2]
 
 
-### **Budget to movie ranking:** An assessment of movies to compare how much money was spent on the movie to the rank of the movie:
+### **Budget to movie ranking:** An assessment of movies to compare how much money was spent on the movie to the rank of the movie
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -85,7 +85,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 [Visualization specific to category 3]
 
 
-### **Correlation between star power(# of well-known actors)and movie rankings:** Look at whether films featuring a higher number of prominent actors tend to get better reviews or higher ratings:
+### **Correlation between star power(# of well-known actors)and movie rankings:** Look at whether films featuring a higher number of prominent actors tend to get better reviews or higher ratings
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
